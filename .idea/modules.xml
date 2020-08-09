@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Introduction to java/1.Introduction to java.iml" filepath="$PROJECT_DIR$/1.Introduction to java/1.Introduction to java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.ArrayList&amp;LinkedList/10.ArrayList&amp;LinkedList.iml" filepath="$PROJECT_DIR$/10.ArrayList&amp;LinkedList/10.ArrayList&amp;LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Vòng lặp trong Java/2.loop.iml" filepath="$PROJECT_DIR$/2.Vòng lặp trong Java/2.loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Access modifier, static method, static property/5. Access modifier, static method, static property.iml" filepath="$PROJECT_DIR$/5. Access modifier, static method, static property/5. Access modifier, static method, static property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.kế thừa/6.kế thừa.iml" filepath="$PROJECT_DIR$/6.kế thừa/6.kế thừa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.AbstractClass&amp;Interface/7.AbstractClass&amp;Interface.iml" filepath="$PROJECT_DIR$/7.AbstractClass&amp;Interface/7.AbstractClass&amp;Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Cleancode/8.Cleancode.iml" filepath="$PROJECT_DIR$/8.Cleancode/8.Cleancode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/9.AutomatedTesting&amp;TDD.iml" filepath="$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/9.AutomatedTesting&amp;TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/9.AutomatedTesting&amp;TĐ.iml" filepath="$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/9.AutomatedTesting&amp;TĐ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/AbsolutNumberCalculator.iml" filepath="$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/AbsolutNumberCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseStudyModule2/CaseStudyModule2.iml" filepath="$PROJECT_DIR$/CaseStudyModule2/CaseStudyModule2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java codegym.iml" filepath="$PROJECT_DIR$/Java codegym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Mảng và phương thức trong java/Mảng và phương thức trong java.iml" filepath="$PROJECT_DIR$/3.Mảng và phương thức trong java/Mảng và phương thức trong java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/Test.iml" filepath="$PROJECT_DIR$/9.AutomatedTesting&amp;TDD/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Lớp và đối tượng trong java/classandopject.iml" filepath="$PROJECT_DIR$/4. Lớp và đối tượng trong java/classandopject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playtheweekend/playtheweekend.iml" filepath="$PROJECT_DIR$/playtheweekend/playtheweekend.iml" />
+    </modules>
+  </component>
+</project>
